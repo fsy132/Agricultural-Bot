@@ -13,4 +13,4 @@ data/weights/best.pt
 export AGRI_TOMATO_MODEL=/home/fsy/Documents/Codex/Agricultural-Bot/Agricultural_Bot/data/weights/best.pt
 ```
 
-也可以把模型放在项目外的任意位置，并在启动命令中传入绝对路径。
+也可以把模型放在项目外的任意位置，并在启动命令中传入绝对路径。1
